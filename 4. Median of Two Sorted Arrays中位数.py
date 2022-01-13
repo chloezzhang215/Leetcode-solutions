@@ -29,4 +29,4 @@ class Solution:
         if totalLength % 2:
             return getKthElement(totalLength//2+1)
         else:
-            return getKthElement(totalLength/2) + getKthElement(totalLength//2+1)
+            return (getKthElement(totalLength//2) + getKthElement(totalLength//2+1)) / 2
