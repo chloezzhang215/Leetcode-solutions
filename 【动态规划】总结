@@ -1,1 +1,7 @@
+https://mp.weixin.qq.com/s/ZqOWomyra90BRzNukHr3-Q
+1.定义一个一维数组 ---> 一般用dp来命名
+2.动态方程的设定 ---> 题中的F(N) = F(N - 1) + F(N - 2)
+3.初始化数值 ---> F(0) = 0和F(1) = 1
+
+
 https://mp.weixin.qq.com/s/Adca02TemBHNfnjukmpiuw
