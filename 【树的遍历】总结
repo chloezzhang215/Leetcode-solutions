@@ -1,0 +1,27 @@
+递归解法：
+def dfs(root):
+  if not root:
+    return
+  else:
+    res.append(root.val)  #只需移动顺序即可
+    dfs(root.left)
+    dfs(root.right)
+    
+迭代解法：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/tu-jie-er-cha-shu-de-si-chong-bian-li-by-z1m/
