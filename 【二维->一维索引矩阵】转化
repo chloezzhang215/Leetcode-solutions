@@ -1,0 +1,5 @@
+row = len(matrix)
+col = len(matrix[0])
+
+一维索引 m
+转化为二维索引 matrix[m//col][m%col]
